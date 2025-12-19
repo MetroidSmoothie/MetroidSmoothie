@@ -9,7 +9,7 @@
 ## 🖥️ Networking Projects
 - [Insert Project Name]
 
-## 🐍 Basic Python
+## 🐍 Python Fundamentals
 - [Insert Project Name]
 
 ## 📄 Certifications and Cert Notes
