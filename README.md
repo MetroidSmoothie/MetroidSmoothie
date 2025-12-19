@@ -15,7 +15,7 @@
 - [03_data_types_structures](https://github.com/zamman47/python-fundamentals/tree/main/03_data_types_structures)
 - [04_functions_exception_handling](https://github.com/zamman47/python-fundamentals/tree/main/04_functions_exception_handling)
 - [05_file_manipulation](https://github.com/zamman47/python-fundamentals/tree/main/05_file_manipulation)
-- [06_modules_standard_lib])(https://github.com/zamman47/python-fundamentals/tree/main/06_modules_standard_lib)
+- [06_modules_standard_lib](https://github.com/zamman47/python-fundamentals/tree/main/06_modules_standard_lib)
 
 ## 📄 Certifications and Cert Notes
 - Security+
