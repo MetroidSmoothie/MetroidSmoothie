@@ -1,25 +1,26 @@
-<h1>Nick Zamek </h1>
+# Nick
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 👨‍💻 Cybersecurity Projects
+- [Insert Project Name]
+- [Insert Project Name]
+- [Insert Project Name]
+- [Insert Project Name]
 
-- <b> [Insert Project Name]</b>
-  - 
-- <b> [Insert Project Name]</b>
-  - 
-- <b>PowerShell</b>
-  - 
-- <b> [Insert Project Name])</b>
-  - 
-- <b> [Insert Project Name]</b>
-  - 
-<h2>📺 Networking Projects </h2>
-- 
+## 🖥️ Networking Projects
+- [Insert Project Name]
 
-<h3>🐍 Basic Python </h3>
+## 🐍 Basic Python
+- [Insert Project Name]
 
-<h4>📄 Certifications and Cert Notes </h4>
-- <b>Security +</b> 
-- 
+## 📄 Certifications and Cert Notes
+- Security+
+- Blue Team Level 1
+- CEH Practical CTF
+
+## 🔗 Cyber Tools and Resources 
+- [Insert Resource Category (ex. OSINT)]
+- [Insert Resource Category (ex. Defensive tools)]
+- [Insert Resource Category (ex. AI Pentesting Stack]
 
 <h2>🤳 Connect with me:</h2>
 
