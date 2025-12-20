@@ -7,7 +7,7 @@
 - [Insert Project Name]
 
 ## 🖥️ Networking Projects
-- [Insert Project Name]
+- Capstone - WAN/LAN configuration
 
 ## 🐍 Python Fundamentals
 - [01_conditions](https://github.com/zamman47/python-fundamentals/tree/main/01_conditions)
