@@ -7,7 +7,7 @@
 - [Insert Project Name]
 
 ## 🖥️ Networking Projects
-- Capstone - WAN/LAN configuration
+- Enterprise WAN Design & VLAN Segmentation
 
 ## 🐍 Python Fundamentals
 - [01_conditions](https://github.com/zamman47/python-fundamentals/tree/main/01_conditions)
