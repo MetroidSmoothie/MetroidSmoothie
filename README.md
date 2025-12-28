@@ -20,7 +20,7 @@
 ## 📄 Certifications and Cert Notes
 - Security+
 - Blue Team Level 1
-- CEH Practical CTF
+- [CEH Practical CTF](https://github.com/MetroidSmoothie/CEH_practical_ctf)
 
 ## 🔗 Cyber Tools and Resources 
 - [Insert Resource Category (ex. OSINT)]
