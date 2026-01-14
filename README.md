@@ -23,8 +23,8 @@
 - [CEH Practical CTF](https://github.com/MetroidSmoothie/CEH_practical_ctf)
 
 ## 🔗 Cyber Tools and Resources 
-- [Insert Resource Category (ex. OSINT)]
-- [Insert Resource Category (ex. Defensive tools)]
+- [OSINT/Threat Feeds]
+- [Tools]
 - [Insert Resource Category (ex. AI Pentesting Stack]
 
 <h2>🤳 Connect with me:</h2>
