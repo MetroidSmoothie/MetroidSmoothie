@@ -1,9 +1,9 @@
 # Nick
 
 ## 👨‍💻 Cybersecurity Projects
-- [Insert Project Name]
-- [Insert Project Name]
-- [Insert Project Name]
+- [Active Directory/IAM]
+- [GRC Project]
+- [Home lab set up]
 - [Insert Project Name]
 
 ## 🖥️ Networking Projects
