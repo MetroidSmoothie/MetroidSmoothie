@@ -18,7 +18,7 @@
 - [06_modules_standard_lib](https://github.com/zamman47/python-fundamentals/tree/main/06_modules_standard_lib)
 
 ## 📄 Certifications and Cert Notes
-- Security+
+- [Security+](https://github.com/MetroidSmoothie/Security-Plus)
 - [Blue Team Level 1](https://github.com/MetroidSmoothie/Blue-Team-Level-1)
 - [CEH Practical CTF](https://github.com/MetroidSmoothie/CEH_practical_ctf)
 
