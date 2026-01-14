@@ -10,6 +10,9 @@
 - Enterprise WAN Design & VLAN Segmentation
 
 ## ⚠️ Threat Research
+- [Insert Report]
+- [Insert Report]
+- [Insert Report]
 
 ## 🐍 Python Fundamentals
 - [01_conditions](https://github.com/zamman47/python-fundamentals/tree/main/01_conditions)
