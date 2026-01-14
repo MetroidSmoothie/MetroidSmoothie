@@ -9,6 +9,8 @@
 ## 🖥️ Networking Projects
 - Enterprise WAN Design & VLAN Segmentation
 
+## ⚠️ Threat Research
+
 ## 🐍 Python Fundamentals
 - [01_conditions](https://github.com/zamman47/python-fundamentals/tree/main/01_conditions)
 - [02_loops](https://github.com/zamman47/python-fundamentals/tree/main/02_loops)
