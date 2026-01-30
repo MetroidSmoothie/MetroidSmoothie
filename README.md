@@ -2,9 +2,11 @@
 
 ## 👨‍💻 Cybersecurity Projects
 - [Active Directory](https://github.com/MetroidSmoothie/Active-Directory-Labs)
-- [GRC Projects]
+- [GRC Projects](https://github.com/MetroidSmoothie/GRC-Projects)
 - [Home lab set up]
 - [Insert Project Name]
+- [Insert Project Name]
+
 
 ## 🖥️ Networking Projects
 - [Enterprise WAN Design & VLAN Segmentation](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
