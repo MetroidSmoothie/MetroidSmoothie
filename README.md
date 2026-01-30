@@ -1,7 +1,7 @@
 # Nick
 
 ## 👨‍💻 Cybersecurity Projects
-- [Active Directory/IAM]
+- [Active Directory Labs]
 - [GRC Project]
 - [Home lab set up]
 - [Insert Project Name]
