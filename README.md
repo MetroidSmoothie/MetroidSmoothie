@@ -3,16 +3,13 @@
 ## 👨‍💻 Cybersecurity Projects
 
 ### Active Directory & IAM
-
+- [Active Directory Home Lab](https://github.com/MetroidSmoothie/Active-Directory-Labs)
+- [Cyber Atlanta IAM Labs](https://github.com/MetroidSmoothie/Cyber-Atlanta-IAM-Labs)
+  
 ### GRC 
 
 ### Home Lab Setup
-- [Active Directory & IAM](https://github.com/MetroidSmoothie/Active-Directory-Labs)
-- [GRC Projects](https://github.com/MetroidSmoothie/GRC-Projects)
 - [Home lab set up]
-- [Insert Project Name]
-- [Insert Project Name]
-
 
 ## 🖥️ Networking Projects
 - [Enterprise WAN Design & VLAN Segmentation](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
