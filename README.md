@@ -1,6 +1,12 @@
 # Nick
 
 ## 👨‍💻 Cybersecurity Projects
+
+### Active Directory & IAM
+
+### GRC 
+
+### Home Lab Setup
 - [Active Directory & IAM](https://github.com/MetroidSmoothie/Active-Directory-Labs)
 - [GRC Projects](https://github.com/MetroidSmoothie/GRC-Projects)
 - [Home lab set up]
