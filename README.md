@@ -7,6 +7,7 @@
 - [Cyber Atlanta IAM Labs](https://github.com/MetroidSmoothie/Cyber-Atlanta-IAM-Labs)
   
 ### GRC 
+[GRC Mastery](https://github.com/MetroidSmoothie/GRC-Mastery)
 
 ### Home Lab Setup
 - [Home lab set up]
