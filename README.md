@@ -14,6 +14,7 @@
 
 ## 🖥️ Networking Projects
 - [Enterprise WAN Design & VLAN Segmentation](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
+- [Enterprise Network Security Project](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
 
 ## ⚠️ Threat Research
 - [Insert Report]
