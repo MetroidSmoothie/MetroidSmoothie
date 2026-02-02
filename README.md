@@ -3,7 +3,7 @@
 ## 👨‍💻 Cybersecurity Projects
 
 ### Active Directory & IAM
-- [Active Directory Home Lab](https://github.com/MetroidSmoothie/Active-Directory-Labs)
+- [Active Directory Home Lab(learnbuilddeploy labs)](https://github.com/learnbuilddeploylabs/active-directory-home-lab/tree/main)
 - [Cyber Atlanta IAM Labs](https://github.com/MetroidSmoothie/Cyber-Atlanta-IAM-Labs)
   
 ### GRC 
