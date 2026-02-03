@@ -8,6 +8,7 @@
   
 ### GRC 
 - [GRC Mastery](https://github.com/MetroidSmoothie/GRC-Mastery)
+- [GRC Nerds] 
 
 ### Home Lab Setup
 - [Home lab set up]
