@@ -19,8 +19,10 @@
 
 ## ⚠️ Threat Research
 - [Notepad++]
+- [React2Shell (CVE-2025-55182)]
 - [Insert Report]
-- [Insert Report]
+
+### Add Intel report 
 
 ## 🐍 Python Fundamentals
 - [01_conditions](https://github.com/zamman47/python-fundamentals/tree/main/01_conditions)
