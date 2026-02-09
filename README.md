@@ -1,6 +1,9 @@
 # Nick Zamek
 *Note: Some of the following repositories are currently in progress or represent upcoming projects and will be updated as development continues*
 
+## 🖥️ Networking Projects
+- [Enterprise WAN Design & VLAN Segmentation](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
+- [Enterprise Network Security Project](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
 ## 👨‍💻 Cybersecurity Projects
 
 ### Active Directory & IAM
@@ -14,9 +17,6 @@
 ### Home Lab Setup
 - [Home lab set up]
 
-## 🖥️ Networking Projects
-- [Enterprise WAN Design & VLAN Segmentation](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
-- [Enterprise Network Security Project](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
 
 ## ⚠️ Threat Research
 - [Notepad++]
