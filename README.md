@@ -4,7 +4,7 @@
 
 ### Active Directory & IAM
 - [Active Directory Home Lab (learnbuilddeploy labs)](https://github.com/learnbuilddeploylabs/active-directory-home-lab/tree/main)
-- [Cyber Atlanta IAM Simulation Labs](https://github.com/MetroidSmoothie/Cyber-Atlanta-IAM-Labs)
+- [Cyber Atlanta IAM Simulation]
   
 ### GRC 
 - [GRC Mastery](https://github.com/MetroidSmoothie/GRC-Mastery)
