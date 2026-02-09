@@ -1,4 +1,4 @@
-# Nick
+# Nick Zamek
 
 ## 👨‍💻 Cybersecurity Projects
 
