@@ -36,7 +36,7 @@
 ## 📄 Certifications and Cert Notes
 - [Security+](https://github.com/MetroidSmoothie/Security-Plus)
 - [Blue Team Level 1](https://github.com/MetroidSmoothie/Blue-Team-Level-1)
-- [CEH Practical CTF](https://github.com/MetroidSmoothie/CEH_practical_ctf)
+- [CEH Practical CTFs](https://github.com/MetroidSmoothie/CEH_practical_ctf)
 - [CISSP](https://github.com/MetroidSmoothie/CISSP)
 
 ## 🔗 Cyber Tools and Resources 
