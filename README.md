@@ -1,4 +1,5 @@
 # Nick Zamek
+<i>Note: Some of the following repositories are currently in progress or represent upcoming projects and will be updated as development continues<i>
 
 ## 👨‍💻 Cybersecurity Projects
 
