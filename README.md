@@ -8,7 +8,7 @@
 - [Cyber Atlanta IAM Simulation]
   
 ### GRC 
-- [GRC Mastery](https://github.com/MetroidSmoothie/GRC-Mastery)
+- [GRC Mastery]
 - [GRC Nerds] 
 
 ### Home Lab Setup
