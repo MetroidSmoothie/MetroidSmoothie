@@ -8,7 +8,8 @@
 
 ### Active Directory & IAM
 - [Active Directory Home Lab (learnbuilddeploy labs)](https://github.com/learnbuilddeploylabs/active-directory-home-lab/tree/main)
-- [Cyber Atlanta Active Directory/IAM (Awaiting Screenshots)]
+- [Cyber Atlanta AD/IAM Full Enterprise Simulation with AI Generated Tickets]
+- [Cyber Atlanta Active Directory/IAM Lab Walkthroughs(Awaiting Screenshots)](https://github.com/MetroidSmoothie/Cyber-Atlanta-AD-IAM-Lab-Walkthroughs)
   
 ### GRC 
 - [GRC Mastery]
