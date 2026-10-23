@@ -5,7 +5,7 @@
 - [Enterprise WAN Design & VLAN Segmentation](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
 - [Enterprise Network Security Project](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
   
-### Home Network Design - Technical Documentation in progress
+## Home Network Design - Technical Documentation in progress
 - Designing and deploying a segmented home network with firewall security controls, physical and virtualized servers, and dedicated lab environments for networking and cybersecurity experimentation.
 
 
