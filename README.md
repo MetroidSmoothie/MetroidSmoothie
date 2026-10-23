@@ -6,7 +6,7 @@
 - [Enterprise Network Security Project](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
   
 ## Home Network Design
-- _Technical Documentation in progress_
+_Technical Documentation in progress_
 - Designing and deploying a segmented home network with firewall security controls, physical and virtualized servers, and dedicated lab environments for networking and cybersecurity experimentation.
 
 
