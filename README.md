@@ -7,7 +7,7 @@
   
 ## Home Network Design
 _Technical Documentation in progress_
-- Designing and deploying a segmented home network with firewall security controls, physical and virtualized servers, and dedicated lab environments for networking and cybersecurity experimentation.
+- Cuurently designing and deploying a segmented home network with firewall security controls, physical and virtualized servers, and dedicated lab environments for networking and cybersecurity experimentation.
 
 
 ## ⚠️ Threat Research
