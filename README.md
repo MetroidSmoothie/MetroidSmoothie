@@ -12,11 +12,9 @@
 - [Cyber Atlanta Active Directory/IAM Lab Walkthroughs(Awaiting Screenshots)](https://github.com/MetroidSmoothie/Cyber-Atlanta-AD-IAM-Lab-Walkthroughs)
   
 ### GRC 
-- [GRC Mastery]
-- [GRC Nerds] 
 
-### Home Lab Setup
-- [Home lab set up]
+### Home Network Design - Technical Documentation in progress
+- Designing and deploying a segmented home network with firewall security controls, physical and virtualized servers, and dedicated lab environments for networking and cybersecurity experimentation.
 
 
 ## ⚠️ Threat Research
