@@ -1,18 +1,10 @@
 # Nick Zamek
 *Note: Some of the following repositories are currently in progress or represent upcoming projects and will be updated as development continues*
 
-## 🖥️ Networking Projects
+## 🖥️ Networking
 - [Enterprise WAN Design & VLAN Segmentation](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
 - [Enterprise Network Security Project](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
-## 👨‍💻 Cybersecurity Projects
-
-### Active Directory & IAM
-- [Active Directory Home Lab (learnbuilddeploy labs)](https://github.com/learnbuilddeploylabs/active-directory-home-lab/tree/main)
-- [Cyber Atlanta AD/IAM Full Enterprise Simulation with AI Generated Tickets]
-- [Cyber Atlanta Active Directory/IAM Lab Walkthroughs(Awaiting Screenshots)](https://github.com/MetroidSmoothie/Cyber-Atlanta-AD-IAM-Lab-Walkthroughs)
   
-### GRC 
-
 ### Home Network Design - Technical Documentation in progress
 - Designing and deploying a segmented home network with firewall security controls, physical and virtualized servers, and dedicated lab environments for networking and cybersecurity experimentation.
 
