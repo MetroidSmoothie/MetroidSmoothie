@@ -3,7 +3,7 @@
 
 ## 🖥️ Networking
 - [Enterprise WAN Design & VLAN Segmentation](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
-- [Enterprise Network Security Project](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
+- [Network Security Project](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
   
 ## 🏠 Home Network Design
 _Technical Documentation in progress_
