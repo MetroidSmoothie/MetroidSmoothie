@@ -6,7 +6,7 @@
 - [Network Security Project](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
 
 
-## Enterprise Active Directory Administration Simulator
+## 👫 Enterprise Active Directory Administration Simulator
 **Status:** Design & Architecture Phase
 
 - Currently in the brainstorming and design phase for a virtualized AD lab that simulates a mid-sized enterprise environment, including workstations, organizational units, GPOs, and role-based access controls. Cloud hosting is being considered as a potential deployment option.
