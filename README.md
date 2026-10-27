@@ -1,17 +1,17 @@
 # Nick Zamek
 
 ## 🌐 Networking
-- [Enterprise WAN Design & VLAN Segmentation](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
-- [Network Security Project](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
+- [Enterprise WAN Design & VLAN Segmentation ↗](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
+- [Network Security Project ↗](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
 
 ## 📄 Cybersecurity Notes & Lab Write-Ups
-- [CEH Practical CTFs](https://github.com/MetroidSmoothie/CEH_practical_ctf)
-- [Blue Team Level 1](https://github.com/MetroidSmoothie/Blue-Team-Level-1)
-- [Security+](https://github.com/MetroidSmoothie/Security-Plus)
-- [CISSP](https://github.com/MetroidSmoothie/CISSP)
+- [CEH Practical CTFs ↗](https://github.com/MetroidSmoothie/CEH_practical_ctf)
+- [Blue Team Level 1 ↗](https://github.com/MetroidSmoothie/Blue-Team-Level-1)
+- [Security+ ↗](https://github.com/MetroidSmoothie/Security-Plus)
+- [CISSP ↗](https://github.com/MetroidSmoothie/CISSP)
 
 ## 🔗 Cyber Tools and Resources 
-- [Resource Library **↗**](https://github.com/MetroidSmoothie/Cyber-Tools-Resources/tree/main)
+- [Resource Library ↗](https://github.com/MetroidSmoothie/Cyber-Tools-Resources/tree/main)
 
 ## 👫 Enterprise Active Directory Administration Simulator
 **Status:** Design & Architecture Phase
@@ -20,7 +20,7 @@
 - The vision is to eventually integrate a simulated ticketing system that presents the user with realistic administration and security tasks. An automated validation engine could (hopefully) assess task accuracy, configuration integrity, and adherence to least-privilege principles.
 
 ## 🐍 Python
-- [Scripts & Exercises](https://github.com/MetroidSmoothie/python-fundamentals/blob/main/README.md)
+- [Scripts & Exercises ↗](https://github.com/MetroidSmoothie/python-fundamentals/blob/main/README.md)
 
 <h2>🤳 Connect with me:</h2>
 
