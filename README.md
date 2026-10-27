@@ -1,7 +1,7 @@
 # Nick Zamek
 *Note: Some of the following repositories are currently in progress or represent upcoming projects and will be updated as development continues*
 
-## 🖥️ Networking
+## 🌐 Networking
 - [Enterprise WAN Design & VLAN Segmentation](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
 - [Network Security Project](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
 
