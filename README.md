@@ -20,12 +20,7 @@
 - The vision is to eventually integrate a simulated ticketing system that presents the user with realistic administration and security tasks. An automated validation engine could (hopefully) assess task accuracy, configuration integrity, and adherence to least-privilege principles.
 
 ## 🐍 Python
-- [01_conditions](https://github.com/zamman47/python-fundamentals/tree/main/01_conditions)
-- [02_loops](https://github.com/zamman47/python-fundamentals/tree/main/02_loops)
-- [03_data_types_structures](https://github.com/zamman47/python-fundamentals/tree/main/03_data_types_structures)
-- [04_functions_exception_handling](https://github.com/zamman47/python-fundamentals/tree/main/04_functions_exception_handling)
-- [05_file_manipulation](https://github.com/zamman47/python-fundamentals/tree/main/05_file_manipulation)
-- [06_modules_standard_lib](https://github.com/zamman47/python-fundamentals/tree/main/06_modules_standard_lib)
+- [Scripts & Exercises](https://github.com/MetroidSmoothie/python-fundamentals/blob/main/README.md)
 
 <h2>🤳 Connect with me:</h2>
 
