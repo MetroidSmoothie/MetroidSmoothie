@@ -9,7 +9,7 @@
 _Technical Documentation in progress_
 - Currently designing and deploying a segmented home network with firewall security controls, physical and virtualized servers, and dedicated lab environments for networking and cybersecurity experimentation.
 
-## 🐍 Python Fundamentals
+## 🐍 Python
 - [01_conditions](https://github.com/zamman47/python-fundamentals/tree/main/01_conditions)
 - [02_loops](https://github.com/zamman47/python-fundamentals/tree/main/02_loops)
 - [03_data_types_structures](https://github.com/zamman47/python-fundamentals/tree/main/03_data_types_structures)
