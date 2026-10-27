@@ -13,14 +13,14 @@
 ## 🔗 Cyber Tools and Resources 
 - [Resource Library ↗](https://github.com/MetroidSmoothie/Cyber-Tools-Resources/tree/main)
 
+## 🐍 Python
+- [Scripts & Exercises ↗](https://github.com/MetroidSmoothie/python-fundamentals/blob/main/README.md)
+
 ## 👫 Enterprise Active Directory Administration Simulator
 **Status:** Design & Architecture Phase
 
 - Currently in the brainstorming and design phase for a virtualized AD lab that simulates a mid-sized enterprise environment, including workstations, organizational units, GPOs, and role-based access controls. Cloud hosting is being considered as a potential deployment option.
 - The vision is to eventually integrate a simulated ticketing system that presents the user with realistic administration and security tasks. An automated validation engine could (hopefully) assess task accuracy, configuration integrity, and adherence to least-privilege principles.
-
-## 🐍 Python
-- [Scripts & Exercises ↗](https://github.com/MetroidSmoothie/python-fundamentals/blob/main/README.md)
 
 <h2>🤳 Connect with me:</h2>
 
