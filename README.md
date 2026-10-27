@@ -30,9 +30,7 @@ _Technical Documentation in progress_
 - [CISSP](https://github.com/MetroidSmoothie/CISSP)
 
 ## 🔗 Cyber Tools and Resources 
-- [OSINT/Threat Feeds]
-- [Tools]
-- [Insert Resource Category (ex. AI Pentesting Stack]
+- [Resource Library](https://github.com/MetroidSmoothie/Cyber-Tools-Resources/tree/main)
 
 <h2>🤳 Connect with me:</h2>
 
