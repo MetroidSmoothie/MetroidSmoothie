@@ -10,12 +10,10 @@ _Technical Documentation in progress_
 - Currently designing and deploying a segmented home network with firewall security controls, physical and virtualized servers, and dedicated lab environments for networking and cybersecurity experimentation.
 
 
-## ⚠️ Threat Research
+## ⚠️ Threat Research / Intel 
 - [Notepad++]
 - [React2Shell (CVE-2025-55182)]
 - [Insert Report]
-
-### Add Intel report 
 
 ## 🐍 Python Fundamentals
 - [01_conditions](https://github.com/zamman47/python-fundamentals/tree/main/01_conditions)
@@ -25,7 +23,7 @@ _Technical Documentation in progress_
 - [05_file_manipulation](https://github.com/zamman47/python-fundamentals/tree/main/05_file_manipulation)
 - [06_modules_standard_lib](https://github.com/zamman47/python-fundamentals/tree/main/06_modules_standard_lib)
 
-## 📄 Certifications and Cert Notes
+## 📄 Certifications, Notes, and Labs
 - [Security+](https://github.com/MetroidSmoothie/Security-Plus)
 - [Blue Team Level 1](https://github.com/MetroidSmoothie/Blue-Team-Level-1)
 - [CEH Practical CTFs](https://github.com/MetroidSmoothie/CEH_practical_ctf)
