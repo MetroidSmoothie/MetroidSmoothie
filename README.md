@@ -11,7 +11,7 @@
 - [CISSP](https://github.com/MetroidSmoothie/CISSP)
 
 ## 🔗 Cyber Tools and Resources 
-- [Resource Library ↗](https://github.com/MetroidSmoothie/Cyber-Tools-Resources/tree/main)
+- [Resource Library **↗**](https://github.com/MetroidSmoothie/Cyber-Tools-Resources/tree/main)
 
 ## 👫 Enterprise Active Directory Administration Simulator
 **Status:** Design & Architecture Phase
