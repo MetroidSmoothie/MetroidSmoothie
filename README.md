@@ -9,8 +9,8 @@
 ## Enterprise Active Directory Administration Simulator
 **Status:** Design & Architecture Phase
 
-Currently in the brainstorming and design phase for a virtualized AD lab that simulates a mid-sized enterprise environment, including workstations, organizational units, GPOs, and role-based access controls. Cloud hosting is being considered as a potential deployment option.
-The vision is to eventually integrate a simulated ticketing system that presents the user with realistic administration and security tasks. An automated validation engine could (hopefully) assess task accuracy, configuration integrity, and adherence to least-privilege principles.
+- Currently in the brainstorming and design phase for a virtualized AD lab that simulates a mid-sized enterprise environment, including workstations, organizational units, GPOs, and role-based access controls. Cloud hosting is being considered as a potential deployment option.
+- The vision is to eventually integrate a simulated ticketing system that presents the user with realistic administration and security tasks. An automated validation engine could (hopefully) assess task accuracy, configuration integrity, and adherence to least-privilege principles.
 
 ## 🐍 Python
 - [01_conditions](https://github.com/zamman47/python-fundamentals/tree/main/01_conditions)
