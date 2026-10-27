@@ -30,7 +30,7 @@ _Technical Documentation in progress_
 - [CISSP](https://github.com/MetroidSmoothie/CISSP)
 
 ## 🔗 Cyber Tools and Resources 
-- [Resource Library](https://github.com/MetroidSmoothie/Cyber-Tools-Resources/tree/main)
+- [Resource Library↗](https://github.com/MetroidSmoothie/Cyber-Tools-Resources/tree/main)
 
 <h2>🤳 Connect with me:</h2>
 
