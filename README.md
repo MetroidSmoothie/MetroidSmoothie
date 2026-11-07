@@ -2,7 +2,7 @@
 
 ## 🌐 Networking
 - [Enterprise WAN Design & VLAN Segmentation ↗](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
-- [Network Security Project ↗](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
+- [Network Security Project (Under Development) ↗](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
 
 ## 📄 Cybersecurity Notes & Lab Write-Ups
 - [CEH Practical CTFs ↗](https://github.com/MetroidSmoothie/CEH_practical_ctf)
