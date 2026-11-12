@@ -5,7 +5,7 @@
 - [Network Security Project (Enhancements in Progress) ↗](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
 
 ## 📄 Cybersecurity Notes & Lab Write-Ups
-- [CEH Practical CTFs ↗](https://github.com/MetroidSmoothie/CEH_practical_ctf)
+- [CEH Engage Practical CTFs ↗](https://github.com/MetroidSmoothie/CEH_practical_ctf)
 - [Blue Team Level 1 ↗](https://github.com/MetroidSmoothie/Blue-Team-Level-1)
 - [Security+ ↗](https://github.com/MetroidSmoothie/Security-Plus)
 - [CISSP ↗](https://github.com/MetroidSmoothie/CISSP)
