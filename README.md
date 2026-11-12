@@ -1,8 +1,10 @@
 # Nick Zamek
 
+## 🛡️ Cyber Defense & Security Operations
+- [Network Security Project (Enhancements in Progress) ↗](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
+
 ## 🌐 Networking
 - [Enterprise WAN Design & VLAN Segmentation ↗](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
-- [Network Security Project (Enhancements in Progress) ↗](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
 
 ## 📄 Cybersecurity Notes & Lab Write-Ups
 - [CEH Engage Practical CTFs ↗](https://github.com/MetroidSmoothie/CEH_practical_ctf)
