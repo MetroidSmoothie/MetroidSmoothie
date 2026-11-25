@@ -1,7 +1,7 @@
 # Nick Zamek
 
 ## 🛡️ Cyber Defense & Security Operations
-- [Cyber Defense Training Environment (Enhancements in Progress) ↗](https://github.com/MetroidSmoothie/Enterprise-Network-Security-Project)
+- [Cyber Defense Training Environment (Enhancements in Progress) ↗](https://github.com/MetroidSmoothie/Cyber-Defense-Training-Environment)
 
 ## 🌐 Networking
 - [Enterprise WAN Design & VLAN Segmentation ↗](https://github.com/MetroidSmoothie/Enterprise-WAN-Design)
